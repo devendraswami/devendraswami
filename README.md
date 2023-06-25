@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devendraswami&label=Profile%20views&color=0e75b6&style=flat" alt="dk-talks" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devendraswami&label=Profile%20views&color=0e75b6&style=flat" alt="devendraswami" /> </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms.**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devendra swami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devendra swami" height="30" width="40" /></a>
-<a href="https://instagram.com/dk_talks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dk__speaks" height="30" width="40" /></a>
+<a href="https://instagram.com/a_boy_in_dreams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_boy_in_dreams" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devendraswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devendraswami" height="30" width="40" /></a>
 </p>
 
